@@ -1,0 +1,15 @@
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\obj\Debug\net7.0\задача13.csproj.AssemblyReference.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\obj\Debug\net7.0\задача13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\obj\Debug\net7.0\задача13.AssemblyInfoInputs.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\obj\Debug\net7.0\задача13.AssemblyInfo.cs
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\obj\Debug\net7.0\задача13.csproj.CoreCompileInputs.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\bin\Debug\net7.0\задача13.exe
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\bin\Debug\net7.0\задача13.deps.json
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\bin\Debug\net7.0\задача13.runtimeconfig.json
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\bin\Debug\net7.0\задача13.dll
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\bin\Debug\net7.0\задача13.pdb
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\obj\Debug\net7.0\задача13.dll
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\obj\Debug\net7.0\refint\задача13.dll
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\obj\Debug\net7.0\задача13.pdb
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\obj\Debug\net7.0\задача13.genruntimeconfig.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\задача13\obj\Debug\net7.0\ref\задача13.dll
